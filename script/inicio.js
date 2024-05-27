@@ -1,0 +1,1 @@
+const btnTeste =  document.querySelector("#teste")
